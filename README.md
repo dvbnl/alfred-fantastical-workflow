@@ -1,6 +1,6 @@
-# `<img src='img/icon.png' width='45' align='center' alt='icon'>` Fantastical Alfred Workflow
+# Fantastical Alfred Workflow
 
-Add new events to Fantastical with Alfred
+Add new events to Fantastical with Alfred.
 
 ## Setup
 
@@ -26,4 +26,4 @@ Interact with Fantastical via the `cal` keyword. (or your own if changed in sett
 
 After pressing Enter the event is added to Fantastical
 
-![1697096157352](image/README/1697096157352.png)
+![Added Event](img/addedevent.png)
